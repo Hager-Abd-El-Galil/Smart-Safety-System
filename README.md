@@ -4,7 +4,7 @@ We can use this system in smart vehicles to protect the driver from accidents re
 
 Hardware Components
 -------------------
-1- MLX90614 Temperature Sensor.\n
+1- MLX90614 Temperature Sensor.
 2- MAX30100 Oximeter.
 3- Heartbeat Sensor.
 4- LCD Screen.
